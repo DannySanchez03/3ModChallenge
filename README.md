@@ -9,7 +9,7 @@ For this 3rd Challenge I was givin a website with html and css setup for it, I h
 
 ## Installation
 
-![my screenshot](assets/images/Ss.png)
+![my screenshot](assets/Ss.png)
 
 ## Usage
 
